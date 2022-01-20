@@ -14,7 +14,8 @@ class Task9 extends Component {
             phoneNumber: '',    
             dropdown: 'select',
             checkbox:'',    
-            formErrors: {}    
+            formErrors: {},
+            test:""
         };    
     
         this.initialState = this.state;    
