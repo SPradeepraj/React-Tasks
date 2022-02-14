@@ -15,17 +15,13 @@ import Task7 from './components/Task7';
 import Task8 from './components/Task8';
 import Task9 from './components/Task9';
 import Task10 from './components/Task10';
-
-
 function App(){
   
 return (
  <div>
   <Router>
 
-  
   <Routes>
-
   
   <Route path='/' element={<Home />} />
   <Route path='/*' element={ <ErrorPage />} />

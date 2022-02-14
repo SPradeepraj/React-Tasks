@@ -6,16 +6,16 @@ function Home() {
         <div>
         <div className='Nav-Link'>
 
-        <div className={'nav'}> <Link to="/Task1">Task1</Link></div><br/>
-        <div className={'nav'}><Link to="/Task2">Task2</Link></div><br/>
-        <div className={'nav'}><Link to="/Task3">Task3</Link></div><br/>
-        <div className={'nav'}><Link to="/Task4">Task4</Link></div><br/>
-        <div className={'nav'}><Link to="/Task5">Task5</Link></div><br/>
-        <div className={'nav'}><Link to="/Task6">Task6</Link></div><br/>
-        <div className={'nav'}><Link to="/Task7">Task7</Link></div><br/>
-        <div className={'nav'}><Link to="/Task8">Task8</Link></div><br/>
-        <div className={'nav'}><Link to="/Task9">Task9</Link></div><br/>
-        <div className={'nav'}><Link to="/Task10">Task10</Link></div><br/>
+        <div className={'nav'}> <Link to="/Task1"><h3>Task1</h3></Link></div>
+        <div className={'nav'}><Link to="/Task2"><h3>Task2</h3></Link></div>
+        <div className={'nav'}><Link to="/Task3"><h3>Task3</h3></Link></div>
+        <div className={'nav'}><Link to="/Task4"><h3>Task4</h3></Link></div>
+        <div className={'nav'}><Link to="/Task5"><h3>Task5</h3></Link></div>
+        <div className={'nav'}><Link to="/Task6"><h3>Task6</h3></Link></div>
+        <div className={'nav'}><Link to="/Task7"><h3>Task7</h3></Link></div>
+        <div className={'nav'}><Link to="/Task8"><h3>Task8</h3></Link></div>
+        <div className={'nav'}><Link to="/Task9"><h3>Task9</h3></Link></div>
+        <div className={'nav'}><Link to="/Task10"><h3>Task10</h3></Link></div>
 
         <child />
         <child />

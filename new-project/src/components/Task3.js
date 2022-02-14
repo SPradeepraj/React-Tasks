@@ -36,7 +36,7 @@ class Task3 extends React.Component{
         
 
         return (
-           <div className='App'>
+           <div>
            <h3>ALL DETAILS</h3>
                         {
                 items.map((item)=> ( 

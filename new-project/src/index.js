@@ -1,7 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import VideoPlayer from 'react-video-js-player';
-import { BrowserRouter, Router, Routes, Route, Link } from 'react-router-dom';
 // import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';

@@ -1,4 +1,31 @@
 
+
+import React from 'react'
+
+function Task2() {
+    return (
+        <div>
+           <img src={require('./Render/Image.jpg')} height ={'300'} width={'500'} alt=''/> <br/><br/> 
+           <video controls src={require ('./Render/Video.mp4')} height ={'300'} width={'500'} alt=''> </video>
+        </div>
+    )
+}
+
+export default Task2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // import React, { Component } from 'react';
 // import VideoPlayer from 'react-video-js-player';
  
@@ -81,16 +108,3 @@
 // }
 
 // export default Task2
-
-import React from 'react'
-
-function Task2() {
-    return (
-        <div>
-           <img src={require('./Render/Image.jpg')} height ={'300'} width={'500'} alt=''/> <br/><br/> 
-           <video controls src={require ('./Render/Video.mp4')} height ={'300'} width={'500'} alt=''> </video>
-        </div>
-    )
-}
-
-export default Task2
